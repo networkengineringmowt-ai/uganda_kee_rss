@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-02",
+  "repo": "uganda_kee_rss",
+  "url": "https://networkengineringmowt-ai.github.io/uganda_kee_rss/",
+  "technical": {
+    "httpStatus": 200,
+    "loadFailed": false,
+    "pageRendered": true,
+    "bodyTextLength": 125,
+    "consoleErrors": [],
+    "brokenImages": [],
+    "hashLinksFound": [],
+    "chartElementCount": 0
+  },
+  "accuracy": {
+    "extractedFigures": [],
+    "discrepancies": []
+  },
+  "consistency": {
+    "districtList": null,
+    "notes": []
+  }
+}
